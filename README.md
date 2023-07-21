@@ -1,2 +1,3 @@
 # dotfiles
-Personal dot files
+
+Personalized dot files to make my configuration easy to import into any environment. Feel free to run this if you wish.
